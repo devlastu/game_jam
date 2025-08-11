@@ -44,4 +44,5 @@ AssetStoreTools*
 # ========== #
 *.tmp
 *.bak
-*.swp
+*.swp.vsconfig
+UpgradeLog.htm
